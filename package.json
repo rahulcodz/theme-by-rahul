@@ -1,0 +1,21 @@
+{
+  "name": "theme-by-rahul",
+  "displayName": "Theme by Rahul",
+  "description": "Theme by Rahul P",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme By Rahul P",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme By Rahul P-color-theme.json"
+      }
+    ]
+  }
+}
